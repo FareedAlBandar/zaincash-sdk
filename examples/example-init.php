@@ -11,7 +11,7 @@
 
 require_once __DIR__ . '/vendor/autoload.php'; // Autoload files using Composer autoload
 
-use AlhasanIQ\ZainCashSDK;
+use FareedAlBandar\ZainCashSDK;
 use Dotenv\Dotenv;
 
 $dotenv = new Dotenv(__DIR__);

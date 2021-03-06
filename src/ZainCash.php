@@ -9,7 +9,7 @@
  * @author Alhasan Ahmed Al-Nasiry <alhasan.nasiry@gmail.com>
  */
 
-namespace AlhasanIQ;
+namespace FareedAlBandar;
 
 require_once __DIR__ . '/../vendor/autoload.php'; // Autoload files using Composer autoload
 
