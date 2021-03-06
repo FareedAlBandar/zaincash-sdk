@@ -9,16 +9,17 @@
 <br />
 <p align="center">
 
-  <h3 align="center">AlhasanIQ/ZainCashSDK</h3>
+  <h3 align="center">FareedAlBandar/ZainCashSDK</h3>
+  <h3 align="center">a fork of alhasaniq/ZainCashSDK</h3>
 
   <p align="center">
     AN Unofficial PHP SDK for ZainCash Iraq
     <br />
-    <a href="https://github.com/alhasaniq/zaincash-sdk/tree/master/examples">Examples</a>
+    <a href="https://github.com/FareedAlBandar/zaincash-sdk/tree/master/examples">Examples</a>
     ·
-    <a href="https://github.com/alhasaniq/zaincash-sdk/issues">Report a Bug</a>
+    <a href="https://github.com/FareedAlBandar/zaincash-sdk/issues">Report a Bug</a>
     ·
-    <a href="https://github.com/alhasaniq/zaincash-sdk/issues">Request Feature</a>
+    <a href="https://github.com/FareedAlBandar/zaincash-sdk/issues">Request Feature</a>
   </p>
 </p>
 
@@ -71,12 +72,12 @@ Modify your `composer.json` to add a repositories source and a require statement
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "https://github.com/alhasaniq/zaincash-sdk.git"
+			"url": "https://github.com/FareedAlBandar/zaincash-sdk.git"
 		}
 	],
 
 	"require": {
-		"alhasaniq/zaincash-sdk": "dev-master"
+		"FareedAlBandar/zaincash-sdk": "dev-master"
 	}
 }
 ```
@@ -85,10 +86,10 @@ Modify your `composer.json` to add a repositories source and a require statement
 
 ## Usage
 
-For Usage Examples, kindly refer to the [`examples` folder](https://github.com/alhasaniq/zaincash-sdk/tree/master/examples) which includes 2 examples of the 2 main endpoints needed:
+For Usage Examples, kindly refer to the [`examples` folder](https://github.com/FareedAlBandar/zaincash-sdk/tree/master/examples) which includes 2 examples of the 2 main endpoints needed:
 
--   [An endpoint](https://github.com/alhasaniq/zaincash-sdk/blob/master/examples/example-init.php) to initiate the transaction (charge the user), which redirects users to zaincash to finish the payment.
--   [Another endpoint](https://github.com/alhasaniq/zaincash-sdk/blob/master/examples/example-redirect.php) to capture the transaction status and info, after being redirected back to your application (from zaincash).
+-   [An endpoint](https://github.com/FareedAlBandar/zaincash-sdk/blob/master/examples/example-init.php) to initiate the transaction (charge the user), which redirects users to zaincash to finish the payment.
+-   [Another endpoint](https://github.com/FareedAlBandar/zaincash-sdk/blob/master/examples/example-redirect.php) to capture the transaction status and info, after being redirected back to your application (from zaincash).
 
 <!-- CONTRIBUTING -->
 
@@ -110,7 +111,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Alhasan A. AL-Nasiry - [@alhasaniq](https://twitter.com/alhasaniq)
 
-Project Link: [https://github.com/alhasaniq/zaincash-sdk](https://github.com/alhasaniq/zaincash-sdk)
+Project Link: [https://github.com/FareedAlBandar/zaincash-sdk](https://github.com/FareedAlBandar/zaincash-sdk)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
